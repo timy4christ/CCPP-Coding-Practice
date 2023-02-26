@@ -1,0 +1,25 @@
+Date: 21-02-2023
+
+
+
+Coding Questions
+-----------------
+Array Based Programs
+
+1. Calculate the average of given array. 
+2. Find the second largest number in the given array. 
+3. Find the second minimum number in the given array. 
+4. Find the missing Number in the given array of 1 to N. 
+5. Write a Java Program to find the Intersection of two arrays.
+6. Write a Java Program to find the Intersection of Two Sorted arrays. 
+7. Write a Java Program to find the Union of Two Arrays (UnSorted Array). 
+8. Write a Java Program to find the Union of Two Arrays (Sorted Arrays). 
+9. Write a Java Program to find the Union of Tow Arrays using HashSet. 
+10. Write a Java Program to Move all Zero to End of the Array. 
+11. Write a Java Program to Move all Zeros to Start of the Array. 
+12. Write a Java Program to Reverse the given array without using additional Array.
+13. Write a program to find the Most Frequent Elementin an given array. 
+14. Write a program to find the Most Frequent Element using Sorting. 
+15. Write a program to find the Most Frequent Element using HashTable. 
+16. Write a java program to Rotate the Given Array d times. 
+17. Find the pair of elements(X+Y) in the array whose sum is equal to given number Z.

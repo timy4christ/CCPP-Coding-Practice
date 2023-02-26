@@ -1,0 +1,17 @@
+Coding Questions
+-----------------
+String Based Programs
+
+1. Write a java program to check Given String is Palindrome or NOT. 
+2. How to Swap two Strings without using third (temporary) variable? 
+3. Write a java program to Reverse a String without using in-build function. 
+4. Write a java program to Count the Number of Words in a given String. 
+5. Write a java program to Count the Number of Vowels in the given string. 
+6. Check Given String is Rotation of Another String. 
+7. Write a Java Program to check two strings are Anagram to each other or NOT. 
+8. Write a Java program to find the Most Repeated Character in the Given String. 
+9. How do you count the Number of Words in a given String using Split method? 
+10. Write a Java Program to Print All Combinations of a given String. 
+11. Write a Java Program to Print All Permutations of a given String. 
+12. Write a Java Program to find All Subsetsof a Given String using Bitwise approach.
+13. Write a Java Program to find All Subsetsof a Given String using Recursion approach.
